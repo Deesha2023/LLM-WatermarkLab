@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Model caches (large, auto re-downloaded)
+.cache/
+
+# Generated results
+results/*.csv
+results/*.joblib
+!results/.gitkeep
+
+
+# OS
+.DS_Store
+Thumbs.db

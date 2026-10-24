@@ -1,0 +1,13 @@
+# One prompt per line. Lines starting with # are ignored.
+Explain what artificial intelligence is to a beginner.
+Describe a sunny day.
+Explain what a computer is.
+Write about the importance of healthy food.
+Explain how the weather changes with the seasons.
+Describe life in a big city.
+Why is education important for students?
+Explain how a language model works.
+Talk about the benefits of regular exercise.
+Describe how people can manage their money.
+Explain why climate change is a serious problem.
+Write about the joy of reading books.
